@@ -1,95 +1,128 @@
-# Hi there! 👋 I'm Sahil Talaviya
+<div align="center">
 
-### 🚀 Frontend Developer | UI/UX Enthusiast | AI Automation Explorer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:0EA5E9&height=280&section=header&text=Sahil%20Talaviya&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20ERP%20Builder&descAlignY=55&descSize=20" width="100%"/>
 
-Welcome to my GitHub profile! I'm a passionate frontend developer from India who loves creating beautiful, functional web applications and exploring the latest technologies.
+<a href="https://readme-typing-svg.demolab.com/">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=0EA5E9&center=true&vCenter=true&width=600&lines=Building+with+Claude+Code;React+%2F+Next.js+%2F+.NET+%2F+Node;Hospital+%C2%B7+Manufacturing+%C2%B7+Business+ERP;AI+Agents+%2B+n8n+Automation" />
+</a>
 
----
+<br/>
 
-## 🔭 What I'm Working On
+<a href="#about"><img src="https://img.shields.io/badge/About-0F172A?style=for-the-badge" /></a>
+<a href="#work"><img src="https://img.shields.io/badge/Work-1E3A5F?style=for-the-badge" /></a>
+<a href="#stack"><img src="https://img.shields.io/badge/Stack-0EA5E9?style=for-the-badge" /></a>
+<a href="#stats"><img src="https://img.shields.io/badge/Stats-1E3A5F?style=for-the-badge" /></a>
+<a href="#contact"><img src="https://img.shields.io/badge/Contact-0F172A?style=for-the-badge" /></a>
 
-- **Evolved Human Care** - Building innovative healthcare solutions
-- Learning and mastering **Next.js** and **Node.js** for full-stack development
-- Exploring **AI automation** integration in web applications
+</div>
 
-## 🎯 What I'm Looking For
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:0F172A&height=40&section=footer" width="100%"/>
 
-- Collaborating on **AI automation projects** and **cutting-edge frontend technologies**
-- Contributing to open-source projects that make a difference
-- Connecting with fellow developers and tech enthusiasts
+<h2 id="about">About</h2>
 
-## 🌟 About Me
+I'm an AI Engineer and Full-Stack Developer based in Gujarat, India. I build production software end-to-end — schema, backend, frontend, and AI/automation on top — using Claude Code as my primary workflow, not just autocomplete.
 
-- 💼 **Portfolio**: [View my work](https://sahiltalaviya-portfolio.netlify.app/)
-- 📝 **Resume**: [Download PDF](https://sahiltalaviya-portfolio.netlify.app/resume.pdf)
-- ✍️ **Blog**: Coming soon! I'll be sharing insights about frontend development
-- 📧 **Contact**: sahiltalaviya9922@gmail.com
+I also run **Fluxora**, an AI automation studio built around n8n workflows and AI agents, and I'm building **Evolved Human Care**, a healthcare product.
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0EA5E9&height=40&section=footer" width="100%"/>
 
-## 🛠️ Tech Stack
+<h2 id="work">Work</h2>
 
-### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
 
-### Styling & UI
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white)
+**Hospital Management ERP**
+Healthcare operations platform
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+Patients · Appointments · Billing · Staff scheduling
 
-### Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+`React` `Node.js`
 
-### Tools & Others
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+</td>
+<td width="33%" valign="top">
 
----
+**Manufacturing ERP**
+Industrial operations platform
 
-## 📊 GitHub Stats
+Production · Inventory · Supply chain
+
+`React` `Node.js`
+
+</td>
+<td width="33%" valign="top">
+
+**Business ERP**
+Enterprise operations platform
+
+Sales · Finance · HR · Inventory
+
+`Next.js` `Node.js`
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:0F172A&height=40&section=footer" width="100%"/>
+
+<h2 id="stack">Stack</h2>
+
+<table width="100%">
+<tr><th align="left" width="20%">Frontend</th><td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,vite,tailwind" /></td></tr>
+<tr><th align="left">Backend</th><td><img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,prisma" /></td></tr>
+<tr><th align="left">Database</th><td><img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,redis" /></td></tr>
+<tr><th align="left">AI &amp; Automation</th><td><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="48"/> <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="48"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" height="48"/></td></tr>
+<tr><th align="left">Languages</th><td><img src="https://skillicons.dev/icons?i=js,python,cpp,git,postman" /></td></tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr><td>
+
+**Database & AI Workflow**
+
+- Schema design and query optimization in **PostgreSQL**, **MySQL**, and **Supabase** — including RLS policies, triggers, indexing, and constraint-heavy multi-table schemas for ERP systems
+- Writing and tuning raw **SQL** alongside **Prisma** ORM for type-safe backend access
+- **Supabase** for auth, realtime subscriptions, storage, and edge functions on fast-moving prototypes
+- Background job orchestration with **BullMQ** and **Redis** for async processing (sync jobs, notifications, report generation)
+- Building **AI agent workflows** with **n8n**, chained with **Claude** for reasoning, document processing, and outbound automation
+- **Claude Code**–driven development workflow: module-by-module prompting for schema → service → controller → routes, applied across every ERP project
+
+</td></tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0EA5E9&height=40&section=footer" width="100%"/>
+
+<h2 id="stats">Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahiltalaviya&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=sahiltalaviya99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahiltalaviya99&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahiltalaviya&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-I'm always open to interesting conversations and collaboration opportunities!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-talaviya-99o9657o18/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sahiltalaviya9922@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://sahiltalaviya-portfolio.netlify.app/)
-
----
-
-<div align="center">
-  <i>⭐️ Don't forget to star some repositories if you find them interesting!</i>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahiltalaviya99&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=sahiltalaviya&color=blueviolet&style=flat-square)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahiltalaviya99&theme=tokyo-night&hide_border=true" width="100%"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:0F172A&height=40&section=footer" width="100%"/>
+
+<h2 id="contact">Contact</h2>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sahil-talaviya-99o9657o18/"><img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sahiltalaviya9922@gmail.com"><img src="https://img.shields.io/badge/Email-1E3A5F?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://sahiltalaviya-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=sahiltalaviya99&color=0EA5E9&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:0EA5E9&height=150&section=footer" width="100%"/>
